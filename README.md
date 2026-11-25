@@ -73,7 +73,6 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Name: KARTHIKEYAN A
 ### Register No: 212225230131
 
-
 ```c
 # Import required libraries
 
